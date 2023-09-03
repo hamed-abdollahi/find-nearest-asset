@@ -1,10 +1,15 @@
 # Find the nearest assets (FNA)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a location-based application. You can find your assests for example find your favorite restaurant on the map, review its foods and images.
 
-## Available Scripts
+## Used Technologies in this project
 
-In the project directory, you can run:
+- React js
+- Cesium Js
+- Node Js (server side)
+- TypeScript
+- GraphQl
+- Mongoose DB (server side)
 
 ### `npm start`
 
