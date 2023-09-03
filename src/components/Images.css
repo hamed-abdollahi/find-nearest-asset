@@ -1,0 +1,12 @@
+#placeImages{
+    margin-top: 12px;
+    height: 88px;
+}
+#placeImages img
+{
+   width: 84px;
+   height: 84px;
+   cursor: pointer;
+   float: left;
+   margin-left: 3px;
+}

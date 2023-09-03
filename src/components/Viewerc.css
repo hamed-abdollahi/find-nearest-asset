@@ -1,0 +1,29 @@
+.btn-3d{
+    position: absolute;
+    top: 100px;
+    right: 10px;
+}
+
+
+#cesiumContainer {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.cesium-viewer-animationContainer
+{
+    display: none;
+}
+
+.cesium-viewer-bottom
+{
+    display: none;
+}
+
+.cesium-viewer-timelineContainer
+{
+    display: none;
+}

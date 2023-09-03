@@ -1,0 +1,48 @@
+.slider-img
+{
+    width: 80px;
+    height: 80px;
+
+}
+
+#slick .BrainhubCarousel__arrows {
+    position: absolute;
+    padding: 7px;
+    border: none;
+    overflow: hidden;
+    outline: 0;
+    font-size: 0;
+    line-height: 0;
+    background-color: transparent;
+    top: -23px;
+    right: 4px;
+    color: black;
+}
+
+#slick .BrainhubCarousel__arrowLeft
+{
+    right: 31px !important;
+}
+
+#slick .BrainhubCarousel__arrows span {
+    
+    border-color: #000 !important;
+    padding: 2px !important;
+}
+
+#slick
+{
+    margin-top: 29px;
+}
+
+.food-name{
+    text-align: center;
+}
+
+.food-price{
+    text-align: center;
+    background-color: burlywood;
+    border-radius: 14px;
+    margin-top: 4px;
+    font-size: 14px;
+}

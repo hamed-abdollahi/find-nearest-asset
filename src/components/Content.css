@@ -1,0 +1,20 @@
+#placeList
+{
+    position: relative;
+    width: 498px;
+    background-color: aliceblue;
+    z-index: 10000000;
+    height: calc(100%);
+    box-shadow: 0 1px 4px 0 rgb(38 38 38 / 50%);
+    transition: display 3s;
+    overflow: auto;
+    float: left;
+}
+
+
+.header{
+    background: rgb(242, 242, 242);
+    padding: 9px;
+}
+
+

@@ -1,0 +1,48 @@
+#imageOverlay
+{
+    float: left;
+    background:rgba(0, 0, 0, .7);
+    position: relative;
+    z-index: 10000097;
+    display: flex;
+    flex-direction: column;
+}
+
+#imageOverlay #closeBtn {
+    float: right;
+    margin: 12px;
+}
+
+#imageOverlay #nextBtn {
+    float: left;
+    margin: 12px;
+}
+#imageOverlay #counter
+{
+    color: white;
+    float: left;
+    margin-top: 28px;
+}
+
+#imageOverlay #closeBtn button
+{
+    color: white;
+}
+
+#imageOverlay #nextBtn button
+{
+    color: white;
+}
+
+#imageOverlay #baseImage{
+    display: flex;
+    flex-direction: row;
+}
+
+#imageOverlay #baseImage img {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+    justify-content: center;
+    text-align: center;
+}

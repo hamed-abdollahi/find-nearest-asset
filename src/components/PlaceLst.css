@@ -1,0 +1,50 @@
+.place-right
+{
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    font-size: 11px;
+    line-height: 12px;
+    font-weight: 400;
+    position: relative;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 16px;
+}
+
+.place-left{
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+}
+
+.place-types{
+    color: gray;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.bbox {
+    background: rgb(255, 255, 255);
+    padding: 16px 16px 12px 24px;
+    box-shadow: rgb(230 230 230) 0px -1px inset;
+    overflow: hidden;
+    cursor: pointer;
+    transform: translateZ(0px);
+    transition: box-shadow 200ms ease 0s;
+    display: flex;
+    flex-direction: row;
+}
+
+.css-13xfq8m-MuiTabPanel-root {
+    padding: 0 !important;
+}
+
+.pagination
+{
+    margin: 20px;
+}
